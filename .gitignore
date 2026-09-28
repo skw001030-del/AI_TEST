@@ -1,0 +1,6 @@
+node_modules/
+data/prep-cafe.sqlite
+data/prep-cafe.sqlite-shm
+data/prep-cafe.sqlite-wal
+.env
+.env.local
